@@ -1,10 +1,10 @@
 ##Grading policies:
 
-* Please write down your student ID, name and Github username in the Google share Spreadsheet. If you don't do that, you won't get grading.\<br>
-EE551-A:\<br>
-https://docs.google.com/spreadsheets/d/16-HD2hedhQrZZKj36slOBhqNsE98TyNIVPVNzq12vdY/edit?usp=sharing \<br>
-EE551-B: \<br>
-https://docs.google.com/spreadsheets/d/1Y6MKBh72UJqnWZOpEKi0k48oK8Fyr5O5Gyq06BgkCvg/edit?usp=sharing \<br>
+* Please write down your student ID, name and Github username in the Google share Spreadsheet. If you don't do that, you won't get grading.
+  * EE551-A:
+>>>https://docs.google.com/spreadsheets/d/16-HD2hedhQrZZKj36slOBhqNsE98TyNIVPVNzq12vdY/edit?usp=sharing 
+EE551-B: 
+https://docs.google.com/spreadsheets/d/1Y6MKBh72UJqnWZOpEKi0k48oK8Fyr5O5Gyq06BgkCvg/edit?usp=sharing 
 
 * If you are a student who is registered to this class, click on the link that I shared with you. That will create a private Github repository for you. Once you have that repository, clone it to your local by using "git clone". 
 
